@@ -1,0 +1,8 @@
+*.pyc
+._*
+*.egg-info
+test-report.xml
+.coverage
+htmlcov/
+.pytest_cache/
+venv*

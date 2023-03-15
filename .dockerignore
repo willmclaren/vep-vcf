@@ -1,0 +1,8 @@
+.git
+*/*.pyc
+**/__pycache__
+*.egg-info
+test-report.xml
+.gitignore
+.coverage
+venv*
